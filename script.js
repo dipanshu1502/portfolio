@@ -141,7 +141,7 @@ projectButtons.forEach((button, index) => {
         const projectLinks = [
 
             // Exam Seating Planner
-            "https://github.com/dipanshu1502/exam-seating-planner",
+            "https://github.com/dipanshu1502/exam-seating-planner-",
 
             // Club Management System
             "https://github.com/dipanshu1502/club-management",
